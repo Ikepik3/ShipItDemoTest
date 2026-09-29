@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Shipit.PriceQuotes.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("pricequote")]
     [ApiController]
     public class PriceQuoteController : ControllerBase
     {
