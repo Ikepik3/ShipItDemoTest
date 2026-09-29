@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Shipit.PriceQuotes.Api [http]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Shipit.PriceQuotes.Api\\Shipit.PriceQuotes.Api.csproj",
+            "launchConfigurationId": "TargetFramework=;http"
+        }
+    ]
+}
