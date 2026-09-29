@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shipit.PriceQuotes.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe25e79cdd9bfa916cd091cc04fa96eec81334ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3055a5d3d2b776d3e03effe2a3f20164bbbe1a0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shipit.PriceQuotes.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shipit.PriceQuotes.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
